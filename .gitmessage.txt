@@ -1,0 +1,22 @@
+
+### Type ###
+# feat: A new feature
+# fix: A bug fix
+# docs: Changes to documentation
+# style: Formatting, missing semi colons, etc; no code change
+# refactor: Refactoring production code
+# test: Adding tests, refactoring test; no production code change
+# chore: Updating build tasks, package manager configs, etc; no production code change
+### Subject ###
+# subjects should be no greater than 50 characters
+# use imperative, present tense: "change" not "changed" nor "changes"
+# must begin with a capital letter, no dot (.) at the end
+
+### Body ###
+# use the body to explain the what and why of a commit, not the how.
+# when writing a body, the blank line between the title and the body is required
+# body should have  limit the length of each line to no more than 72 characters.
+# use imperative, present tense: "change" not "changed" nor "changes
+
+### Footer ###
+# The footer is optional and is used to reference issue tracker IDs.
