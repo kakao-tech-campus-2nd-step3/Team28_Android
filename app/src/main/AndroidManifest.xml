@@ -13,6 +13,42 @@
         android:theme="@style/Theme.Team28_Android"
         tools:targetApi="31">
         <activity
+            android:name=".features.splashscreen.ui.SplashScreenActivity"
+            android:exported="false" />
+        <activity
+            android:name=".features.share.ui.KakaoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".features.share.ui.NFCActivity"
+            android:exported="false" />
+        <activity
+            android:name=".features.share.ui.QRActivity"
+            android:exported="false" />
+        <activity
+            android:name=".features.wallet.ui.CardListActivity"
+            android:exported="false" />
+        <activity
+            android:name=".features.wallet.ui.WalletListActivity"
+            android:exported="false" />
+        <activity
+            android:name=".features.chat.ui.ChatRoomActivity"
+            android:exported="false" />
+        <activity
+            android:name=".features.chat.ui.ChatListActivity"
+            android:exported="false" />
+        <activity
+            android:name=".features.profile.ui.ProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name=".features.home.ui.HomeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".core.navigation.NavigationActivity"
+            android:exported="false" />
+        <activity
+            android:name=".features.login.ui.LoginActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
