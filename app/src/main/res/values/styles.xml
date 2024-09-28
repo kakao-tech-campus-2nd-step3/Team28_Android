@@ -1,0 +1,12 @@
+<resources>
+    <style name="app_name">
+        <item name="android:textSize">30dp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:textColor">#14304A</item>
+    </style>
+    <style name="login_github">
+        <item name="android:textSize">20dp</item>
+        <item name="android:letterSpacing">0.01</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+</resources>
